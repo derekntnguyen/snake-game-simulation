@@ -1,6 +1,6 @@
 # Snake Game Simulation
 
-## Intro
+## Summary
 The aim of this project was to explore the snake simulation to a greater degree than previously.
 In that project snakes were modeled to move randomly on a 2d lattice. They could not intersect with other snakes or themselves.
 The lattice was customizable in that it could have different sizes and it also included different boundary
