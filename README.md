@@ -23,14 +23,14 @@ x and y coordinates which placed the locations of the food for the snakes. The n
 present can be specified by the user.
 
 ## Results
-![image](https://user-images.githubusercontent.com/79728577/109375651-6d556680-788c-11eb-87fc-49efc0b10c2c.png)
+![image](https://user-images.githubusercontent.com/79728577/109375694-ccb37680-788c-11eb-9235-aacd8a0e1924.png)
 
 Figure 1: Initial run the program with 10 available foods and 3 snakes
 
-![image](https://user-images.githubusercontent.com/79728577/109375663-8100cd00-788c-11eb-9485-a6182ea40d25.png)
+![image](https://user-images.githubusercontent.com/79728577/109375705-d76e0b80-788c-11eb-9107-d1cd428fd1b7.png)
 
 Figure 2: Running the program with 100 foods
 
-![image](https://user-images.githubusercontent.com/79728577/109375668-89590800-788c-11eb-93a9-514055df0e3d.png)
+![image](https://user-images.githubusercontent.com/79728577/109375708-db019280-788c-11eb-9583-8dbbe5aacf3b.png)
 
 Figure 3: Running the program with 500 foods
