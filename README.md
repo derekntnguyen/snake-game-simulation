@@ -24,8 +24,13 @@ present can be specified by the user.
 
 ## Results
 ![image](https://user-images.githubusercontent.com/79728577/109375651-6d556680-788c-11eb-87fc-49efc0b10c2c.png)
+
 Figure 1: Initial run the program with 10 available foods and 3 snakes
+
 ![image](https://user-images.githubusercontent.com/79728577/109375663-8100cd00-788c-11eb-9485-a6182ea40d25.png)
+
 Figure 2: Running the program with 100 foods
+
 ![image](https://user-images.githubusercontent.com/79728577/109375668-89590800-788c-11eb-93a9-514055df0e3d.png)
+
 Figure 3: Running the program with 500 foods
